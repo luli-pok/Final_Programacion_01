@@ -4,8 +4,8 @@
         "puntaje": 4200
     },
     {
-        "nombre": "piiiii",
-        "puntaje": 900
+        "nombre": "gdsgdf",
+        "puntaje": 1400
     },
     {
         "nombre": "gdfgdg",
@@ -16,24 +16,24 @@
         "puntaje": 900
     },
     {
-        "nombre": "fdfhfj",
-        "puntaje": 800
+        "nombre": "piiiii",
+        "puntaje": 900
     },
     {
-        "nombre": "holis",
-        "puntaje": 400
+        "nombre": "fdfhfj",
+        "puntaje": 800
     },
     {
         "nombre": "hola",
         "puntaje": 400
     },
     {
-        "nombre": "i",
-        "puntaje": 100
+        "nombre": "holis",
+        "puntaje": 400
     },
     {
-        "nombre": "hfdhdfh",
-        "puntaje": 0
+        "nombre": "i",
+        "puntaje": 100
     },
     {
         "nombre": "hfnhfgj",
@@ -45,6 +45,10 @@
     },
     {
         "nombre": "fghfd",
+        "puntaje": 0
+    },
+    {
+        "nombre": "hfdhdfh",
         "puntaje": 0
     }
 ]
