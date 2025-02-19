@@ -1,0 +1,1 @@
+PLATAFORMA_0 = r"assets\imagenes\plataformas\plataforma_0.png"
